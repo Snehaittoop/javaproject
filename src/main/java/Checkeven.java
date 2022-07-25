@@ -4,7 +4,7 @@ public class Checkeven {
 
     public static void main(String[] args) {
             Scanner input=new Scanner(System.in);
-            System.out.println("enter number");12
+            System.out.println("enter number");
             int num = input.nextInt();
             if(num%2 ==0) {
                 System.out.println(num + "even");
